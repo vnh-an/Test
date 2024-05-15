@@ -60,8 +60,6 @@ button {
 #Aboutme, #Education, #Experience, #Contactme, #ProfessionalDevelopment, #TechnicalSkills, #WorkingExperience{
     width: 1200px;
     color: black;
-     padding-left: 100px; /* Adjusted padding */
-    padding-right: 100px; /* Adjusted padding */
 }
 
 #Aboutme{
@@ -80,7 +78,7 @@ button {
 }
 #Education > div{
     width: 1000px;
-    padding-left: 100px;
+    padding-left: 10px;
 
 }
 #Experience{
