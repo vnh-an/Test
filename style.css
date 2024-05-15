@@ -57,6 +57,8 @@ button {
 #Aboutme, #Education, #Experience, #Contactme, #ProfessionalDevelopment, #TechnicalSkills, #WorkingExperience{
     width: 1200px;
     color: black;
+    padding-left: 100px; /* Adjusted padding */
+    padding-right: 100px; /* Adjusted padding */
 }
 
 #Aboutme{
